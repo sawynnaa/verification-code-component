@@ -1,5 +1,3 @@
-好的，这是将原文中文部分翻译为英文后的完整内容：
-
 # Vue Verification Code Input Component
 
 A feature-rich and easy-to-use Vue 3 verification code input component, supporting custom length, auto-focus, paste, success/error state animations, and more.
