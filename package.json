@@ -1,6 +1,6 @@
 {
   "name": "@moonstone1258/vue3-verification-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A feature-rich Vue 3 verification code input component with TypeScript support, auto-focus, paste handling, and success/error animations",
   "type": "module",
   "main": "./dist/vue3-verification-input.umd.js",
