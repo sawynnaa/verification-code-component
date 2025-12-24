@@ -70,7 +70,7 @@ const handleComplete = (value: string) => {
 import { createApp } from 'vue'
 import App from './App.vue'
 import { Vue3VerificationInput } from '@moonstone1258/vue3-verification-input'
-import '@moonstone1258/vue3-verification-input/dist/style.css'
+import '@moonstone1258/vue3-verification-input/style.css'
 
 const app = createApp(App)
 app.use(Vue3VerificationInput)
@@ -94,7 +94,7 @@ import {
   VerificationCodeInput,
   type VerificationCodeInputInstance
 } from '@moonstone1258/vue3-verification-input'
-import '@moonstone1258/vue3-verification-input/dist/style.css'
+import '@moonstone1258/vue3-verification-input/style.css'
 
 const code = ref('')
 const inputRef = ref<VerificationCodeInputInstance>()
