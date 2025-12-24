@@ -45,7 +45,7 @@ pnpm add @moonstone1258/vue3-verification-input
 <script setup lang="ts">
 import { ref } from 'vue'
 import { VerificationCodeInput } from '@moonstone1258/vue3-verification-input'
-import '@moonstone1258/vue3-verification-input/dist/style.css'
+import '@moonstone1258/vue3-verification-input/style.css'
 
 const code = ref('')
 
