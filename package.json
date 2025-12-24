@@ -17,7 +17,7 @@
         "default": "./dist/vue3-verification-input.umd.js"
       }
     },
-    "./dist/style.css": "./dist/style.css"
+    "./dist/style.css": "./dist/vue3-verification-input.css"
   },
   "files": [
     "dist",
