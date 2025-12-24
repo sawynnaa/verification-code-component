@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(npm run build)",
+      "Bash(npm install -D vite-plugin-dts)",
+      "Bash(npm pack:*)",
+      "Bash(tar:*)"
     ]
   }
 }
